@@ -1,6 +1,8 @@
 # improved-bassoon
 Creating a password generator for a team to use
-Used written code that was given. Added CSS Miami Vice colors to the …
+Used written code that was given. 
+
+Added CSS Miami Vice colors to the …
 
 …background. Using JavaScript to prompt the generator to assist the client with options such as clicking OK for yes or Cancel for No in choices of wanting lower case letters uppercase letters, symbols, or numbers included in the clients generated password.
 
